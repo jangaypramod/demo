@@ -6,4 +6,4 @@ This is a simple README file
 I hope this isnt problematic
 =======
 this is bound to cause trouble!
->>>>>>> very-bad
+just something going on
